@@ -1,0 +1,4 @@
+name:lajks
+branch:cse
+email:ghcf@gmail.com
+adddress:euhs
